@@ -1,0 +1,17 @@
+.app {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+	display: flex;
+	justify-content: space-between;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+}
